@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
                 int j = Integer.parseInt(String.valueOf(input2.getText()));
                 int r = i+j;
                 result.setText(String.valueOf(r));
+                //testing git
             }
         });
 
